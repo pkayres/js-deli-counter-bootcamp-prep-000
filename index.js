@@ -18,7 +18,7 @@ function currentLine(line){
     return `The line is currently empty.`;
   }
 }
-=======
+/*=======
   for (i = 0, deliLine.length > 0, ++i,){
     if (i > 0)
   return `Currently serving ${deliLine}`
@@ -26,5 +26,4 @@ function currentLine(line){
   return `There is nobody waiting to be served!`;
   }
 }
-
->>>>>>> 7b6647a9d37b7dada3356c5257a87b52c5e846d9
+/*
